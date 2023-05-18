@@ -1,0 +1,30 @@
+.banner-section {
+  height: 400px;
+  padding: 20px;
+  background-size: cover;
+}
+
+.banner-info {
+  margin: 0 auto;
+  font-weight: bolder;
+  text-shadow: 0 0 3px rgba(0,0,0,0.5);
+  color:rgb(255, 253, 249);
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-btn {
+  background-color: #bcf0e0;
+  border-radius: 20px;
+  color: black;
+  padding: 8px 16px;
+  text-shadow: 0 0 3px rgba(0,0,0,0.5);
+}
+
+.banner-info p{
+font-size: 25px;
+margin-bottom: 0;
+}

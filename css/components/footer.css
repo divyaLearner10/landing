@@ -1,0 +1,31 @@
+.footer-section {
+  background-color: #643843;
+  background-size: cover;
+  color: whitesmoke;
+  font-size: 14px;
+  text-align: center;
+
+  padding: 20px;
+}
+
+.icons-footer {
+  list-style: none;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.icons-footer i {
+  color: #C8DBBE;
+  font-size: 30px;
+  padding: 8px;
+  margin-top: 16px;
+}
+
+.footer-section p {
+  color: #C8DBBE;
+
+  margin: 0;
+  padding: 8px;
+}
